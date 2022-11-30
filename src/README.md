@@ -1,3 +1,8 @@
+
+Autor: Abraham Martínez
+Clase: Programación Concurrente
+
+
 Realiza una aplicación en la que se muestre, mediante una barra de progreso y una etiqueta de texto,
 la cuenta atrás desde una cantidad de segundos introducida por el usuario.
 En cualquier momento éste podrá cancelar la cuenta:
