@@ -1,6 +1,5 @@
 
-Autor: Abraham Martínez
-Clase: Programación Concurrente
+Autor: Abraham Martínez -- Programación Concurrente
 
 
 Realiza una aplicación en la que se muestre, mediante una barra de progreso y una etiqueta de texto,
