@@ -6,6 +6,8 @@ Realiza una aplicación en la que se muestre, mediante una barra de progreso y u
 la cuenta atrás desde una cantidad de segundos introducida por el usuario.
 En cualquier momento éste podrá cancelar la cuenta:
 
+Como para este ejercicio no necesito heredar de más clases en lugar de implementar Runnable he heredado de Thread
+
 La tarea se lanzará en segundo plano una vez el usuario pulse el botón
 
 La tarea mantendrá la cuenta atrás de los segundos que el usuario haya introducido
